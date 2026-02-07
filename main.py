@@ -1,5 +1,5 @@
-from controllers.rumor_controller import RumorController
+from controllers.app_controller import AppController
 from views.login_view import LoginView
 
-controller = RumorController()
+controller = AppController()
 LoginView(controller).mainloop()

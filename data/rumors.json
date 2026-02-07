@@ -8,5 +8,22 @@
     "report_count": 3,
     "status": "verified",
     "verified_result": "false"
+  },
+  {
+    "rumor_id": "10000002",
+    "title": "teqtq",
+    "source": "tqwtqwtqw",
+    "report_count": 1,
+    "status": "normal",
+    "date_created": "2026-02-07"
+  },
+  {
+    "rumor_id": "10000003",
+    "title": "qrweqweqweq",
+    "source": "eqweqweqweqw",
+    "report_count": 0,
+    "status": "normal",
+    "date_created": "2026-02-07",
+    "credibility": 0
   }
 ]
