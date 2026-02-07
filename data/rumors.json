@@ -1,9 +1,49 @@
 [
   {
-    "rumor_id": "10000001",
-    "title": "dassssss",
-    "source": "sasddddddd",
+    "rumor_id": "10000008",
+    "title": "มีการอพยพประชาชนในเขตอุตสาหกรรม",
+    "source": "เจ้าหน้าที่ท้องถิ่น",
     "date": "2026-02-07",
+    "credibility": 0,
+    "report_count": 6,
+    "status": "verified",
+    "verified_result": "false"
+  },
+  {
+    "rumor_id": "10000004",
+    "title": "โรงเรียนจะปิดกะทันหันโดยไม่แจ้งล่วงหน้า",
+    "source": "ข่าวลือในชุมชน",
+    "date": "2026-02-03",
+    "credibility": 0,
+    "report_count": 6,
+    "status": "panic",
+    "verified_result": null
+  },
+  {
+    "rumor_id": "10000005",
+    "title": "พบผู้ติดเชื้อโรคใหม่ในตลาดสด",
+    "source": "ข่าวออนไลน์",
+    "date": "2026-02-04",
+    "credibility": 0,
+    "report_count": 5,
+    "status": "panic",
+    "verified_result": null
+  },
+  {
+    "rumor_id": "10000003",
+    "title": "เกิดแผ่นดินไหวขนาดใหญ่คืนนี้",
+    "source": "ทวิตเตอร์",
+    "date": "2026-02-03",
+    "credibility": 0,
+    "report_count": 4,
+    "status": "panic",
+    "verified_result": null
+  },
+  {
+    "rumor_id": "10000006",
+    "title": "รัฐบาลประกาศวันหยุดฉุกเฉินทั่วประเทศ",
+    "source": "เพจข่าว",
+    "date": "2026-02-05",
     "credibility": 0,
     "report_count": 3,
     "status": "verified",
@@ -11,16 +51,38 @@
   },
   {
     "rumor_id": "10000002",
-    "title": "teqtq",
-    "source": "tqwtqwtqw",
-    "report_count": 1,
+    "title": "น้ำประปาในเขตเมืองไม่ปลอดภัย",
+    "source": "ไลน์กรุ๊ปชุมชน",
+    "date": "2026-02-02",
+    "credibility": 0,
+    "report_count": 2,
     "status": "normal",
-    "date_created": "2026-02-07"
+    "verified_result": null
   },
   {
-    "rumor_id": "10000003",
-    "title": "qrweqweqweq",
-    "source": "eqweqweqweqw",
+    "rumor_id": "10000007",
+    "title": "ระบบขนส่งสาธารณะหยุดให้บริการชั่วคราว",
+    "source": "สำนักข่าวโทรทัศน์",
+    "date": "2026-02-06",
+    "credibility": 0,
+    "report_count": 2,
+    "status": "verified",
+    "verified_result": "true"
+  },
+  {
+    "rumor_id": "10000001",
+    "title": "พบการปล่อยสารเคมีในแม่น้ำ",
+    "source": "ผู้ใช้เฟซบุ๊ก",
+    "date": "2026-02-01",
+    "credibility": 0,
+    "report_count": 1,
+    "status": "normal",
+    "verified_result": null
+  },
+  {
+    "rumor_id": "10000009",
+    "title": "ไวรัสสายพันธุ์ใหม่",
+    "source": "youtube",
     "report_count": 0,
     "status": "normal",
     "date_created": "2026-02-07",
