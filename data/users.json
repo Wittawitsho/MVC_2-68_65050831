@@ -1,0 +1,12 @@
+[
+  { "user_id": "U01", "name": "Somchai", "role": "user" },
+  { "user_id": "U02", "name": "Anan", "role": "user" },
+  { "user_id": "U03", "name": "Suda", "role": "user" },
+  { "user_id": "U04", "name": "Kanya", "role": "user" },
+  { "user_id": "U05", "name": "Narin", "role": "user" },
+  { "user_id": "U06", "name": "Ploy", "role": "user" },
+  { "user_id": "U07", "name": "Bank", "role": "user" },
+  { "user_id": "U08", "name": "Mild", "role": "user" },
+  { "user_id": "U09", "name": "Joe", "role": "checker" },
+  { "user_id": "U10", "name": "Admin", "role": "checker" }
+]
