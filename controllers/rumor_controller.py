@@ -11,7 +11,7 @@ class RumorController:
         self.report_model = ReportModel()
         self.current_user = None  # เก็บ user ที่ login
 
-    # ---------- AUTH ----------
+    # AUTH
     def login(self, user_id):
         user = self.user_model.authenticate(user_id)
         if user:
@@ -22,7 +22,7 @@ class RumorController:
     def logout(self):
         self.current_user = None
 
-    # ---------- RUMOR ----------
+    # RUMOR 
     def get_rumors(self):
         return self.rumor_model.get_all()
 

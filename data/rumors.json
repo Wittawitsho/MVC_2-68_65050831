@@ -1,72 +1,12 @@
 [
   {
-    "rumor_id": "10000003",
-    "title": "tt",
-    "source": "Twitter",
-    "date_created": "2025-01-02",
-    "credibility_score": 70,
-    "report_count": 4,
-    "status": "panic",
-    "verified_result": null
-  },
-  {
     "rumor_id": "10000001",
-    "title": "น้ำดื่มปนเปื้อนสารพิษ",
-    "source": "Facebook",
-    "date_created": "2025-01-01",
-    "credibility_score": 40,
+    "title": "dassssss",
+    "source": "sasddddddd",
+    "date": "2026-02-07",
+    "credibility": 0,
     "report_count": 3,
     "status": "verified",
     "verified_result": "false"
-  },
-  {
-    "rumor_id": "10000002",
-    "title": "ไฟฟ้าจะดับทั้งประเทศ",
-    "source": "Twitter",
-    "date_created": "2025-01-02",
-    "credibility_score": 70,
-    "report_count": 3,
-    "status": "verified",
-    "verified_result": "true"
-  },
-  {
-    "rumor_id": "10000004",
-    "title": "teqtq",
-    "source": "qtqtqetq",
-    "date": "2026-02-07",
-    "credibility": 0,
-    "report_count": 1,
-    "status": "normal",
-    "verified_result": null
-  },
-  {
-    "rumor_id": "10000005",
-    "title": "teqtq",
-    "source": "qeqweqweqweqw",
-    "date": "2026-02-07",
-    "credibility": 0,
-    "report_count": 0,
-    "status": "normal",
-    "verified_result": null
-  },
-  {
-    "rumor_id": "10000006",
-    "title": "asdasda",
-    "source": "dasdasdas",
-    "date": "2026-02-07",
-    "credibility": 0,
-    "report_count": 0,
-    "status": "normal",
-    "verified_result": null
-  },
-  {
-    "rumor_id": "10000007",
-    "title": "asdasdasdasdasdasdsa",
-    "source": "adasdasdasdasdada",
-    "date": "2026-02-07",
-    "credibility": 0,
-    "report_count": 0,
-    "status": "normal",
-    "verified_result": null
   }
 ]
